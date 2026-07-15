@@ -1,3 +1,19 @@
+
+**Indian Trade Agreement:** A Trade Agreement is official agreement b/w 2 or more countries to decide the rules for buying & selling goods & services. 
+
+**Indian Foreign Trade policy (FTP) -> 1 April 2023:** Rules को set करने की Official Gov. policy.
+
+As per the source, here is the table for the current and target export figures:
+
+| Category | Current Export | Target (by 2030) |
+| :--- | :--- | :--- |
+| **Goods** | 441.70 Billion| 1 Trillion  |
+| **Services** | 418.31 Billion| 1 Trillion |
+
+
+
+
+
 | **ECTA** | **FTA** | **CEPA** | **CECA** |
 | --- | --- | --- | --- |
 | **Economic Cooperation and Trade Agreement**<br><br>​<br>**First step toward (FTA)<br>​<br>​**Chote mote aggreement<br> | **Free Trade Agreement<br>​<br>​**Remove tarriff on goods and services <br> | **Comprehensive Economic Partnership Agreement**<br><br>​<br>**Advance form of FTA**<br><br>Cover investment, digital trade & Intellectual Property Rights (IPR) | **Comprehensive Economic Cooperation Agreement<br><br>​​**Broder Economics Cooperation <br><br>बड़ी बड़ी चीजें (space program, Medicine, defence related)<br> |
