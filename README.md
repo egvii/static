@@ -1,4 +1,166 @@
+# Pdf Markdown Generator
+```
+Write the following content using the following Markdown PDF Exporter syntax. 
+• All Standard markdown 
+• LaTeX Math
 
+
+Now Custom Feature 
+
+Color Supported for all block 
+teal,green,blue,red,yellow,pink,navy,maroon ( use small case for color name)
+
+
+1. Inline Highlight ( this can be used anywhere /in any block)
+==text==  ( default teal color)
+
+For other color 
+==ColorName:text== 
+
+You can use `ColorName:text` for colorful less hilighted hilight
+
+
+2. Chapter Banner
+
+```chapter
+color: teal
+number: 01
+title: Chapter Title
+subtitle: 
+\`\`\`
+
+
+3. Timeline (for chronological content)
+
+```timeline ColorName
+1947 | India gains independence
+1950 | Constitution comes into effect
+1991 | Economic liberalisation begins
+\`\`\`
+
+
+4. Cards (comparison columns)
+
+```cards
+### Column Title (teal)
+- Point one
+- Point two
+Plain paragraph text also works
+---
+### Second Column (purple)
+- Another point
+- More details
+\`\`\`
+
+
+
+5. Callout (for important notes)
+
+```callout
+type: info ( Types: info warning danger success tip)
+title: Did You Know?
+Body text goes here. Can be multiple sentences.
+\`\`\`
+
+
+
+6. Quote
+
+```quote
+The quote text goes here, as long as needed.
+by: Author Name
+\`\`\`
+
+
+6. Stats / Metrics
+
+```stats
+1,240 | Total Users | +18% | blue
+94% | Satisfaction | +3% | green
+₹4.2L | Revenue | +22% | teal
+12 | Open Issues | -5 | orange
+\`\`\`
+
+Format: value | label | delta | color
+Delta prefix + = green arrow, - = red arrow
+
+
+
+7. Highlighted Banner
+
+```highlight
+color: purple
+icon: 🚀
+title: Key Takeaway
+Description text goes here. This is the main point of this section.
+\`\`\`
+
+
+
+8. Article Cards (numbered with colored left panel use for structured items with numbers)
+
+```article maroon
+14 | Article Title Here
+- Bullet point one
+- Bullet point two
+Plain text body also works
+---
+15 | Second Article Title
+- Another point
+- Another point
+\`\`\`
+
+Format: N | Title then body, articles separated by ---
+
+
+9. Numbered Feature Cards (for lists of key points)
+
+```numbered teal
+1 | First Point Title
+Description body text for this numbered item goes here.
+---
+2 | Second Point Title
+Description body text for this numbered item.
+---
+3 | Third Point Title
+More body text here.
+\`\`\`
+
+Format: N | Title then body, items separated by ---
+
+
+
+10. Important Notes Grid
+
+```note
+Label One | Fact or note text goes here.
+Label Two | Another important point.
+| Item with no label — just text.
+\`\`\`
+
+Format: Label | content — label is optional.
+
+
+11. Section ( use for colorful headings)
+```section
+color: maroon
+number: 4
+title: Right to Freedom of Religion
+subtitle: Art. 25-28
+\`\`\`
+
+12. You can use any other block inside any block
+
+Tip — use :: for inline blocks
+No need for triple backticks when writing inside another block.
+Use ::grid, ::cards, ::pyq, ::callout, ::note — anything.
+Close with :: on its own line.
+
+::note
+Article 32 | Right to move Supreme Court — heart & soul of the Constitution
+Article 226 | Right to move High Court for enforcement of any legal right
+::
+```
 <br>
 <br>
 
