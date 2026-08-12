@@ -57,3 +57,20 @@ Bachon ke future ke liye unhe ek healthy environment dena hai aur unka childhood
 ### Article 39A (Extra Trick)
 
 *   39A - A for Advocate: Iska matlab hai Free Legal Aid (Muft kanooni sahayata) [1]. Iska maqsad ye hai ki garibi ki wajah se kisi bhi insaan ko insaf milne se roka na ja sake [1].
+
+---
+
+### गंगा नदी में मिलने वाली प्रमुख नदियाँ
+Trick: यशोदा को राम सा कंगन चाहिए
+
+- य → यमुना
+- सो → सोन
+- दा → दामोदर
+- को → कोसी
+- रा → रामगंगा
+- म → महानंदा
+- सा → सारदा (काली गंगा)
+- क → करनाली
+- गन → गण्डक
+
+
