@@ -1,16 +1,16 @@
 ### शिवाजी A सबके कप में फ्रूटी
-- March–April → चैत्र
-- April–May → वैशाख
-- May–June → ज्येष्ठ
-- June–July → आषाढ़  
-- July–August → श्रावण  
-- August–September → भादों / भाद्रपद  
-- September–October → कुआर / आश्विन
-- October–November → कार्तिक  
-- November–December → अगहन / मार्गशीर्ष
-- December–January → पौष  
-- January–February → माघ  
-- February–March → फाल्गुन
+- चैत्र → March–April
+- वैशाख → April–May
+- ज्येष्ठ → May–June
+- आषाढ़ → June–July
+- श्रावण → July–August
+- भादों / भाद्रपद → August–September
+- कुआर / आश्विन → September–October
+- कार्तिक → October–November
+- अगहन / मार्गशीर्ष → November–December
+- पौष → December–January
+- माघ → January–February
+- फाल्गुन → February–March
 
 
 
