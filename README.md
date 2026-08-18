@@ -4,7 +4,7 @@ Wrap the entire content in a single 4-backtick Markdown block
 ```
 
 ## Pdf Markdown Generator
-```
+````
 Write the following content using the following Markdown PDF Exporter syntax. 
 • All Standard markdown 
 • LaTeX Math
@@ -32,7 +32,7 @@ color: teal
 number: 01
 title: Chapter Title
 subtitle: 
-\`\`\`
+```
 
 
 3. Timeline (for chronological content)
@@ -41,7 +41,7 @@ subtitle:
 1947 | India gains independence
 1950 | Constitution comes into effect
 1991 | Economic liberalisation begins
-\`\`\`
+```
 
 
 4. Cards (comparison columns)
@@ -55,7 +55,7 @@ Plain paragraph text also works
 ### Second Column (purple)
 - Another point
 - More details
-\`\`\`
+```
 
 
 
@@ -65,7 +65,7 @@ Plain paragraph text also works
 type: info ( Types: info warning danger success tip)
 title: Did You Know?
 Body text goes here. Can be multiple sentences.
-\`\`\`
+```
 
 
 
@@ -74,7 +74,7 @@ Body text goes here. Can be multiple sentences.
 ```quote
 The quote text goes here, as long as needed.
 by: Author Name
-\`\`\`
+```
 
 
 6. Stats / Metrics
@@ -84,7 +84,7 @@ by: Author Name
 94% | Satisfaction | +3% | green
 ₹4.2L | Revenue | +22% | teal
 12 | Open Issues | -5 | orange
-\`\`\`
+```
 
 Format: value | label | delta | color
 Delta prefix + = green arrow, - = red arrow
@@ -98,7 +98,7 @@ color: purple
 icon: 🚀
 title: Key Takeaway
 Description text goes here. This is the main point of this section.
-\`\`\`
+```
 
 
 
@@ -113,7 +113,7 @@ Plain text body also works
 15 | Second Article Title
 - Another point
 - Another point
-\`\`\`
+```
 
 Format: N | Title then body, articles separated by ---
 
@@ -129,7 +129,7 @@ Description body text for this numbered item.
 ---
 3 | Third Point Title
 More body text here.
-\`\`\`
+```
 
 Format: N | Title then body, items separated by ---
 
@@ -141,7 +141,7 @@ Format: N | Title then body, items separated by ---
 Label One | Fact or note text goes here.
 Label Two | Another important point.
 | Item with no label — just text.
-\`\`\`
+```
 
 Format: Label | content — label is optional.
 
@@ -152,7 +152,7 @@ color: maroon
 number: 4
 title: Right to Freedom of Religion
 subtitle: Art. 25-28
-\`\`\`
+```
 
 12. You can use any other block inside any block
 
@@ -165,7 +165,7 @@ Close with :: on its own line.
 Article 32 | Right to move Supreme Court — heart & soul of the Constitution
 Article 226 | Right to move High Court for enforcement of any legal right
 ::
-```
+````
 <br>
 <br>
 
