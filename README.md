@@ -1,4 +1,9 @@
-# Pdf Markdown Generator
+## For Deepseek 
+```
+Wrap the entire content in a single 4-backtick Markdown block
+```
+
+## Pdf Markdown Generator
 ```
 Write the following content using the following Markdown PDF Exporter syntax. 
 • All Standard markdown 
